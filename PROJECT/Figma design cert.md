@@ -14,4 +14,5 @@ Redesigned a mobile application interface using **Figma**, focusing on user-cent
 
 
 # Sample Design Created
-![UI Screenshot](https://drive.google.com/file/d/1yDt99aROmQzJxn3ji2WmcBSrJFEnTzPP/view?usp=sharing)
+![Figma Design Screenshot](https://drive.google.com/uc?export=view&id=1yDt99aROmQzJxn3ji2WmcBSrJFEnTzPP)
+
